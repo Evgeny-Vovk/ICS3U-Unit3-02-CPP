@@ -1,8 +1,8 @@
 // Copyright(c) 2022 Evgeny Vovk All rights reserved.
 //
 // Created by : Evgeny Vovk
-// Created on : September 2022
-// ICS3U-Unit2-04.cpp File, learning pseudo-code in C++.
+// Created on : October 2022
+// ICS3U-Unit3-03.cpp File, learning if statements in C++.
 
 #include <iomanip>
 #include <iostream>
