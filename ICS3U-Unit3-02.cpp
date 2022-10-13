@@ -17,10 +17,10 @@ int main() {
     std::cin >> guessNumber;
 
     // process and output
-    if (NUMBER == guessNumber){
+    if (NUMBER == guessNumber) {
         std::cout << "\nYou guessed right.";
     }
-    if (NUMBER != guessNumber){
+    if (NUMBER != guessNumber) {
         std::cout << "\nYou guessed wrong, try again.";
     }
 
